@@ -5,9 +5,8 @@ I like to **build things**. And **learn by doing**. 🚀
 ## About Me
 
 🎓 I'm a **Computer Science student** @ University of Guelph  
-💻 I'm passionate about **full-stack development**  
-📊 Currently working as a **Data Analyst**  
-☁️ Lately, I've been exploring **ML/Data Science** and **Cloud Computing**  
+☁️ Currently working as a **Cloud Engineer and Administrator**  
+🔎 Lately, I've been exploring **Cloud Computing**  
 
 ## Technologies I've Worked With:
 
