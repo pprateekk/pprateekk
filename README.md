@@ -7,7 +7,7 @@ I like to **build things**. And **learn by doing**. 🚀
 🎓 I'm a **Computer Science student** @ University of Guelph  
 ☁️ Currently working as a **Cloud Engineer and Administrator**  
 🔎 Lately, I've been exploring **Cloud Computing** and preparing for the **AWS Solutions Architect - Associate** certification  
-📸 I sometimes share my shots [here](https://captured-ten.vercel.app/)
+📸 I sometimes share my shots on [Captured](https://captured-ten.vercel.app/)
 
 ## Technologies I've Worked With:
 
