@@ -3,9 +3,9 @@
 I like to **build things**. And **learn by doing**. 🚀
 
 🎓 CS grad from the University of Guelph  
-🛠️ Currently building a PIPEDA compliance data pipeline — Airflow, dbt, PostgreSQL 
-📄 Published researcher in NLP/ML (Springer, 2024)
-📸 I sometimes share my shots on [Captured](https://captured-ten.vercel.app/)
+🛠️ Currently building a PIPEDA compliance data pipeline — Airflow, dbt, PostgreSQL  
+📄 Published researcher in NLP/ML (Springer, 2024)  
+📸 I sometimes share my shots on [Captured](https://captured-ten.vercel.app/)  
 
 ## Technologies I've Worked With:
 
