@@ -2,11 +2,9 @@
 
 I like to **build things**. And **learn by doing**. 🚀
 
-## About Me
-
-🎓 I'm a **Computer Science student** @ University of Guelph  
-☁️ Currently working as a **Cloud Engineer and Administrator**  
-🔎 Lately, I've been exploring **Cloud Computing** and preparing for the **AWS Solutions Architect - Associate** certification  
+🎓 CS grad from the University of Guelph  
+🛠️ Currently building a PIPEDA compliance data pipeline — Airflow, dbt, PostgreSQL 
+📄 Published researcher in NLP/ML (Springer, 2024)
 📸 I sometimes share my shots on [Captured](https://captured-ten.vercel.app/)
 
 ## Technologies I've Worked With:
@@ -17,7 +15,7 @@ I like to **build things**. And **learn by doing**. 🚀
 | **Frameworks & Libraries** | ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=nltk&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) |
 | **Developer Tools**        | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)                                                                                                                                                                                                                                                                                                               |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprateekk&layout=compact&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprateekk&layout=compact&langs_count=8)](https://github.com/pprateekk)
 
 <!--
 **pprateekk/pprateekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
