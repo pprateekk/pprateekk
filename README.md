@@ -1,6 +1,8 @@
 ## Hey, I'm Prateek : )
-
+<!--
 I like to build things. And learn by doing.
+
+-->
 
 [Website](https://pprateekk.github.io/personal-portfolio/#/)
 
